@@ -10,7 +10,7 @@ import {
 
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 
-export default Nav = (props) => (
+export default Result = (props) => (
     <View style={styles.contaner}>
         <View style={styles.toolbar}>
             <Touch
